@@ -681,7 +681,7 @@ span, a, a:hover {
 .section-head h4 {
   position: relative;
   padding: 0;
-  color: #f91942;
+  color: #00aeef;
   line-height: 1;
   letter-spacing: 0.3px;
   font-size: 34px;
@@ -695,7 +695,7 @@ span, a, a:hover {
   content: '';
   width: 60px;
   height: 3px;
-  background: #f91942;
+  background: #00aeef;
   position: absolute;
   left: 0px;
   bottom: -10px;
@@ -736,7 +736,7 @@ p.service_text {
   content: '';
   width: 60px;
   height: 3px;
-  background: #f91942;
+  background: #00aeef;
   position: absolute;
   left: 0px;
   bottom: -10px;
@@ -746,7 +746,7 @@ p.service_text {
 
 .extra-text span {
   font-weight: 700;
-  color: #f91942;
+  color: #00aeef;
 }
 
 .item {
@@ -764,7 +764,7 @@ p.service_text {
 }
 
 .item:hover {
-  background: #bababa;
+  background: #00aeef;
   box-shadow: 0 8px 20px 0px rgba(0, 0, 0, 0.2);
   -webkit-transition: all .5s ease 0;
   transition: all .5s ease 0;
@@ -789,7 +789,7 @@ p.service_text {
 .item .icon {
   font-size: 40px;
   margin-bottom: 25px;
-  color: #f91942;
+  color: #00aeef;
   width: 90px;
   height: 90px;
   line-height: 96px;
@@ -798,32 +798,32 @@ p.service_text {
 
 .item .feature_box_col_one {
   background: rgba(247, 198, 5, 0.20);
-  color: #f91942
+  color: #00aeef
 }
 
 .item .feature_box_col_two {
   background: rgba(255, 77, 28, 0.15);
-  color: #f91942
+  color: #00aeef
 }
 
 .item .feature_box_col_three {
   background: rgba(0, 147, 38, 0.15);
-  color: #f91942
+  color: #00aeef
 }
 
 .item .feature_box_col_four {
   background: rgba(0, 108, 255, 0.15);
-  color: #f91942
+  color: #00aeef
 }
 
 .item .feature_box_col_five {
   background: rgba(146, 39, 255, 0.15);
-  color: #f91942
+  color: #00aeef
 }
 
 .item .feature_box_col_six {
   background: rgba(23, 39, 246, 0.15);
-  color: #f91942
+  color: #00aeef
 }
 
 .item p {
@@ -892,7 +892,7 @@ p.service_text {
   left: 0;
   top: 0;
   height: 100%;
-  background: #bababa;
+  background: #00aeef;
   width: 10%;
   border-radius: 10px;
   -webkit-transition: all 1s;
