@@ -563,8 +563,9 @@ section a {
 
 
 .cell {
-  width: 100px;
-  height: 100px;
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
   margin: 0 5px 5px 0;
   text-align: center;
   border: .5px solid #bababa;
@@ -573,8 +574,8 @@ section a {
 
 .cell img {
   padding: 10px;
-  width: 80px;
-  height: 80px;
+  width: 100%;
+  height: 100%;
   text-align: center;
 }
 
@@ -628,9 +629,7 @@ nav>div a.nav-item.nav-link:focus {
 }
 
 
-.cell {
-  cursor: pointer;
-}
+
 
 a,
 a:hover,
